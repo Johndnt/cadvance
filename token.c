@@ -3,7 +3,7 @@
 int main(int argc, char const *argv[])
 {
     int count,i;
-    char a[]="give-me-an-apple";
+    char a[]="hope-mrVu-don't-see-my-post";
 
     while(a[count]!='\0')
     {count++;}
